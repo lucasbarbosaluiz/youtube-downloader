@@ -1,0 +1,7 @@
+# Arquivos de sistema
+*.pyc
+__pycache__/
+.DS_Store
+
+# Diretório de downloads
+Downloads/
